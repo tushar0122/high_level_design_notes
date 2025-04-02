@@ -1,0 +1,13 @@
+Microservices Pattern 
+
+Two Archiecture 
+    => Monolithic 
+    => Microservices
+    
+
+Monolithic Services 
+    => also called Legacy Services 
+    => 
+
+Microservices
+    => 
