@@ -7,7 +7,13 @@ Two Archiecture
 
 Monolithic Services 
     => also called Legacy Services 
-    => 
-
+    => Disadvantages 
+        => Overload IDE
+        => Scaling is very hard
+            => Regression for whole 
+            => Tight Coupled Application
+                => Testing required for whole if one change
+                => Deployed whole Application
+            => 
 Microservices
     => 
