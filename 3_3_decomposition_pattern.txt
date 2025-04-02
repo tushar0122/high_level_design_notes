@@ -1,3 +1,12 @@
 Decomposition Patterns
     => Decompose by Business Functionality
     => Decompose by Subdomain
+
+
+Business Functionality
+    => Good knowlegde of Business Functions/Capabilities to divide properly
+    => Divide based on functionality
+
+Subdomains
+    => Domain driven design 
+    => Functionality can have subdomains 
