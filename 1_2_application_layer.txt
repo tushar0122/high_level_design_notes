@@ -32,6 +32,7 @@ FTP
     => 2 Connection
         => Control Connection
         => Data Connection
+            => It is not encrypted, so not used
 
 SMTP 
     => Sending mails 
@@ -41,6 +42,7 @@ IMAP
 
 POP3 
     => Not used today 
+    => delete mail after accessing it
 
 Peer to Peer 
     => All Server, Client can talk to each other 
@@ -48,3 +50,4 @@ Peer to Peer
 Webrtc
     => It is peer to peer Protocol
     => It uses UDP Protocol
+    => It is used in live streaming
