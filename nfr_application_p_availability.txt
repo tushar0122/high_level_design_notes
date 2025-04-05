@@ -1,5 +1,6 @@
 Server Availibility
-    => Horizontal Scaling (with load balancer)
+    => Horizontal Scaling (with load balancer, autoscaling)
+    => Multiple Data Centers 
     
 Database Availibility 
     => Database Replication (Master/Slave Architecture)

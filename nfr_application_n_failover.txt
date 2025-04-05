@@ -1,5 +1,10 @@
 Server Failover
     => Horizontal Scaling (with load balancer)
+    => Multiple Data Centers
+
+No 
+    => Stateful Api 
+    => Stick Sessions 
 
 Database Failover
     => Database replication
