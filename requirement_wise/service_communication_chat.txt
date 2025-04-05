@@ -1,6 +1,8 @@
+Questions
+
 Application Layer Protocol
-XMPP Protocol
-    => Peer to Peer Protocol
+WebSocket Protocol 
+    => 
 
 HTTP Protocol
     => Client Server Model
@@ -8,12 +10,14 @@ HTTP Protocol
     => Not effective for chat system 
     => Two way communication needed 
     => Polling to be done, if needed via HTTP
+    => Long Polling 
+
+XMPP Protocol
+    => Peer to Peer Protocol
 
 Transport Layer Protocol
 TCP Protocol
     => 
 
-WebSocket Protocol 
-    => 
 
 

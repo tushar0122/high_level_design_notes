@@ -1,0 +1,4 @@
+NoSQL 
+    => Unrelated data 
+    => No complex join 
+    => Low latency
