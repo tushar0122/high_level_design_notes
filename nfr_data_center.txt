@@ -6,6 +6,8 @@ Data Center
         => Cooling systems
         => Storage systems
         => Physical security
+    
+Advantage
     => In the event of any significant data center outage, we direct all traffic to a healthy data center.
 
 GeoDNS Routing 
@@ -25,3 +27,7 @@ Several technical challenges must be resolved to achieve multi-data center setup
         => With multi-data center setup, it is important to test your
         website/application at different locations. Automated deployment tools are vital to keep
         services consistent through all the data centers [11].
+
+To further scale our system, we need to decouple different components of the system so they
+can be scaled independently. 
+Messaging queue is a key strategy employed by many realworld distributed systems to solve this problem.
