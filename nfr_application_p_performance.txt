@@ -1,7 +1,12 @@
 Server Performance 
-    => Horizontal Scaling (with load balancer, with autoscaling)
-    => Caching
-    => CDN 
+    => Reducing load 
+        => Horizontal Scaling (with load balancer, with autoscaling)
+    => Reducing Computation 
+        => Caching
+        => CDN 
 
 Database Performance
-    => Database Replication (Master/Slave Architecture)
+    => Reducing Load 
+        => Database Replication (Master/Slave Architecture)
+    => Reducing Computation
+        => 

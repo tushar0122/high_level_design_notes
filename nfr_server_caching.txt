@@ -52,3 +52,17 @@ Usecase
 
 Caching Strategies 
     => Read through Caching
+
+Multilevel Caching 
+    => L1 
+        => Faster than L2 
+        => Expensive 
+        => Smaller in size 
+        => Store very frequent data 
+        => Multilevel caching 
+    => L2 
+        => Slower than L1 
+        => Less expensive
+        => Larger in size 
+        => Store more data 
+        => Higher latency 
