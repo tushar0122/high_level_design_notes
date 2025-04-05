@@ -1,0 +1,5 @@
+Server Performance 
+    => Horizontal Scaling (with load balancer)
+
+Database Performance
+    => Database Replication (Master/Slave Architecture)

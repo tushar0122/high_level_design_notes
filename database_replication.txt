@@ -1,0 +1,11 @@
+Master/Slave Architecture 
+    => Only master supports write operation
+    => Only Slave supports read operation
+    => Most application required high number of reads than to writes 
+        => So more number of slave than master
+        => So parallel processing of queries, hence increased Performance
+        => Makes application reliable by If one of your database servers is destroyed by a natural disaster, such as a 
+        typhoon or an earthquake, data is still preserved. You do not need to worry about data loss
+        because data is replicated across multiple locations.
+        => High availability: By replicating data across different locations, your website remains in
+        operation even if a database is offline as you can access data stored in another database server.

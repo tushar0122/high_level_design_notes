@@ -1,2 +1,0 @@
-Server Performance 
-    => Horizontal Scaling (with load balancer)
