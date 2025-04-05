@@ -1,0 +1,6 @@
+Sharing
+    => Horizontal Partitioning
+    => Partitioning by rows
+
+Vertical Partitioning
+    => Partitioning by columns 

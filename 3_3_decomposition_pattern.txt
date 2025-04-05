@@ -52,4 +52,4 @@ CQRS Pattern
     => To resolve challenge while joining tables in distributed database
     => Command Query Request Seggregation
         => Create Update Delete 
-        => Select 
+        => Select Separate database
