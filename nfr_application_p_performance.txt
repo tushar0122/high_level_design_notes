@@ -1,5 +1,7 @@
 Server Performance 
     => Horizontal Scaling (with load balancer)
+    => Caching
+    => CDN 
 
 Database Performance
     => Database Replication (Master/Slave Architecture)
