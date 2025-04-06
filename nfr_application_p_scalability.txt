@@ -3,6 +3,9 @@ Server Scalability
     => Multiple Data Centers 
     
 Database Scalability 
+    => Reducing Computation 
+        => Horizontal Scaling (With Consistent Hashing)
+        => Vertical Scaling
     => Database Replication (Master/Slave Architecture)
         => Across different locations
     => Reducing Space Used 

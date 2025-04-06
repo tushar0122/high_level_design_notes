@@ -48,3 +48,11 @@ Usecases
 In Figure 1-23, we shard databases to support rapidly increasing data traffic. At the same
 time, some of the non-relational functionalities are moved to a NoSQL data store to reduce
 the database load. Here is an article that covers many use cases of NoSQL 
+
+
+Challenges
+    => Distribute data evenly
+    => Minimize data movements when nodes are added or removed
+        => Consistent Hashing is solution
+    => Inconsistent data across replicas 
+        => Versioning & Vector clocks 
