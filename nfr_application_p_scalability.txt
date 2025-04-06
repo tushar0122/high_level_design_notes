@@ -1,0 +1,9 @@
+Server Scalability
+    => Horizontal Scaling (with load balancer, autoscaling)
+    => Multiple Data Centers 
+    
+Database Scalability 
+    => Database Replication (Master/Slave Architecture)
+        => Across different locations
+    => Reducing Space Used 
+        => Compression
