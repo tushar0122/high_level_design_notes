@@ -27,8 +27,6 @@ A "commit" record is also written to the WAL.
 In case of a crash:
 The database can replay the WAL to restore to a consistent state.
 
-
-
 Benefits
 Durability (from ACID properties): Ensures no data is lost if a crash occurs after writing to the log.
 Crash Recovery: WAL can be replayed to reconstruct the state.
