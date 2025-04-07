@@ -1,3 +1,12 @@
+Auto-scaling Groups / Instance Groups
+Cloud platforms (AWS ASG, GCP MIG) replace failed VMs automatically.
+Scales up/down based on traffic and health.
+
+Kubernetes Self-Healing
+Liveness/Readiness Probes: Restart failed containers.
+ReplicaSets: Ensure a minimum number of pods are always running.
+Node auto-replacement: Managed Kubernetes can replace failed nodes.
+
 Circuit Breaker Pattern 
     => A circuit breaker wraps a call to a remote service or resource (like an API or database). If the call fails too many times, the circuit breaker "trips" and stops further attempts for a while.
 
