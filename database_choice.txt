@@ -11,6 +11,14 @@ NoSQL
     => Data size billions and beyond
     => Need low latency
 
+Graph Database 
+    => To store social networks 
+
 Key/Value Pair 
     => Easily Scalable
     => HBase, Cassandra
+
+Columar database/Bigquery
+    => More read operations
+    => Minimal right operations 
+    => Billions of records
