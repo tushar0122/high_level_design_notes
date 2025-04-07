@@ -10,3 +10,7 @@ Queuing
 
 Dead letter queue 
     => After message repeatedly failed, store in dead letter queue
+
+Server Failure 
+    => Failure Detection
+        => GOSSIP Protocol
