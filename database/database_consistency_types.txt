@@ -1,0 +1,17 @@
+Before jumping into methods, understand the levels of consistency:
+
+Strong Consistency
+Every read returns the latest write (like a single-node DB).
+
+Eventual Consistency
+All nodes will eventually converge to the same state.
+
+Causal Consistency
+Preserves the cause-effect relationship.
+
+Read-Your-Writes Consistency
+A client always sees its own updates.
+
+Session Consistency
+Guarantees within a session, not globally.
+
